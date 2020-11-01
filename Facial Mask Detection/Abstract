@@ -1,0 +1,13 @@
+Objective: 
+To construct a CNN model to detect if a person is wearing a face mask or not, with a webcam or mobile camera. 
+As an extension, we are also planning to identify the masked person using his features.
+
+
+About the Project: 
+In this project, we have decided to build a Convolutional Neural Network (CNN) model using TensorFlow with Keras 
+library and OpenCV to detect if we are wearing a face mask or not.
+
+
+The Dataset:
+For building this model, we will be using three types of masked face datasets, including Masked Face Detection Dataset (MFDD), 
+Real-world Masked Face Recognition Dataset (RMFRD) and Simulated Masked Face Recognition Dataset (SMFRD).
